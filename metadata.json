@@ -1,0 +1,5 @@
+{
+  "name": "Election Observer Pledge Platform",
+  "description": "A platform to generate election observer pledge forms with ID attachments and PDF export.",
+  "requestFramePermissions": []
+}
